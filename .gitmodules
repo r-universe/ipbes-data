@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/ipbes-data/ipbes-data.r-universe.dev
 	branch = HEAD
+[submodule "IPBES.R"]
+	path = IPBES.R
+	url = https://github.com/IPBES-Data/IPBES.R
