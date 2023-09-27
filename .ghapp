@@ -1,0 +1,10 @@
+{
+  "id": 42266860,
+  "created_at": "2023-09-27T07:58:40.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["IPBES.R"]
+}
