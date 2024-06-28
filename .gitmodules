@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/ipbes-data/ipbes-data.r-universe.dev
 	branch = HEAD
+[submodule "IPBES.LiteratureReport"]
+	path = IPBES.LiteratureReport
+	url = https://github.com/IPBES-Data/IPBES.LiteratureReport
 [submodule "IPBES.R"]
 	path = IPBES.R
 	url = https://github.com/IPBES-Data/IPBES.R
